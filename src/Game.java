@@ -24,8 +24,6 @@ public class Game {
         		    null,
         		    options,
         		    options[0]);
-					
-					/* JOptionPane.showMessageDialog(frame, "Pense num prato que você gosta"); */
 			if (resposta == 0) {
 				bt.traversePreOrder(bt.root);
 			}
