@@ -30,6 +30,7 @@ public class Game {
 				bt.traversePreOrder(bt.root);
 			}
 		}
+		System.exit(0);
 
 	}
 
